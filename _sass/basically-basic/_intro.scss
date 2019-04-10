@@ -10,12 +10,9 @@
 
 .intro-image {
   position: relative;
-  margin-top: 1rem; /* compensate for intro top margin */
+  margin-top: -3rem; /* compensate for intro top margin */
   margin-bottom: 3rem;
-  border-radius: 50%;
-  max-width: 50%;
-  height: auto;
-
+ 
   &::before {
     position: absolute;
     top: 0;
@@ -67,4 +64,10 @@
     font-size: 1.125em;
     line-height: 1.625;
   }
+}
+
+.intro-jd {
+  position: relative;
+  max-width: 50%;
+  height: auto;
 }
