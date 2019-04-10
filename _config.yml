@@ -19,9 +19,9 @@ email: j@sper.ph
 description: Test description
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://jasperdean.dev/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author: Jasper Dean
+author:
   name: Jasper Dean
-  twitter:
+  twitter: jasperdean7
   picture:
 twitter_username: jasperdean7
 github_username: jasperdean7
