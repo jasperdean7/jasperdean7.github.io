@@ -68,7 +68,11 @@
 
 .intro-jd {
   position: relative;
-  max-width: 150px;
+  width: 100%;
   height: auto;
   border-radius: 50%;  
+}
+
+.intro-jd-div {
+  max-width: 170px;
 }
