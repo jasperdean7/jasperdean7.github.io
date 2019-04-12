@@ -2,7 +2,9 @@
 title: "About"
 layout: about
 ---
-Lancashire born, Shropshire bred.  The 80s baby of an English father and Filipino mother. I spent my early years riding around on my old bicycle in the picturesque Ironbridge Gorge; now a World Heritage Site and old heart of the Industrial Revolution.
+Lancashire born, Shropshire bred.  
+
+The 80s baby of an English father and Filipino mother. I spent my early years riding around on my old bicycle in the picturesque Ironbridge Gorge; now a World Heritage Site and old heart of the Industrial Revolution.
 
 In the 90’s we made a move to the other end of the “Eastern Primary” on the outskirts of Telford, where primary/secondary school and sixth form went by in no time at all.
 
