@@ -1,6 +1,6 @@
 ---
 title: "Snippet: Go for loop and switch"
-excerpt: "Example of the for statement with a swtich in the block."
+excerpt: "Example of the `for` statement with a `switch` in the block."
 last_modified_at: 2019-04-12T19:27:01-05:00
 tags: 
   - code
@@ -8,8 +8,8 @@ tags:
   - go
 ---
 
-## Example
-
+## Go
+Example of the `for` statement with a `switch` in the block.
 ```go
 package main
 
