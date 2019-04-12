@@ -11,14 +11,14 @@
       "address": "",
       "postalCode": "",
       "city": "Telford",
-      "countryCode": "GB",
+      "countryCode": "United Kingdom",
       "region": "Shropshire."
     },
     "profiles": [
       {
-        "network": "Twitter",
+        "network": "LinkedIn",
         "username": "jasperdean7",
-        "url": "https://twitter.com/jasperdean7"
+        "url": "https://www.linkedin.com/in/jasperdean7/"
       },
       {
         "network": "GitHub",
@@ -29,100 +29,128 @@
   },
   "work": [
     {
-      "company": "*Under construction*",
-      "position": "tbc",
-      "website": "https://thewh.ip",
-      "startDate": "2013-12-01",
-      "endDate": "",
-      "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+      "company": "Hillside (Technology) Ltd, bet365 Group",
+      "position": "Service Delivery Technical Lead",
+      "website": "https://bet365.com",
+      "startDate": "Jul 2018",
+      "endDate": "Present",
+      "summary": "Service design in a complex, distributed, micro-services and highly available production environment. Combining guidance / perspectives from the Business, Infrastructure and Software architecture to a schedule that supports the PDLC.  Furthermore, supporting the delivery of new products and service migrations from provisioning through to operational readiness and Go-Live",
       "highlights": [
-        "Concealed nipper in embrodiery.",
-        "Dealt with Elastical Gomez on a daily basis."
+        "Translating business requirements and facilitating design sessions in order to produce technical design diagrams and supporting documentation.",
+        "Critically assessing technical designs in order to highlight single-points-of-failure and/or application-to-application dependencies.",
+        "Service reviews with Managers and Technical Leads across Infrastructure, Software Development and the wider Business.",
+        "Aligning Service Design and review activities with the Service Catalogue and CMDB.",
+        "Building effective working relationships with Managers and Technical Architects/Leads across Infrastructure and Software Development",
+        "Continuously seeking to increase efficiency via automation of manual tasks, reducing complexity and making recommendations to improve the customer experience.",
+        "Advocate cultural philosophies, practices and tools that increase the organisation’s ability to deliver applications and services at high velocity."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Steve's Meat Market",
-      "position": "Assistant",
+      "organization": "",
+      "position": "",
       "website": "",
-      "startDate": "1995-01-01",
-      "endDate": "1997-03-20",
-      "summary": "Ground up some sort of grasshopper mash for fishing.",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Awarded a 'Helium Biscuit'"
+        ""
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Ointment",
-      "area": "Digital Skillets",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "institution": "University of Wolverhampton",
+      "area": "Computer Games Design",
+      "studyType": "Diploma of Higher Education",
+      "startDate": "2007",
+      "endDate": "2011",
+      "gpa": "",
       "courses": [
-        "DB1101 - Perpendicular Crosstalk",
-        "CS2011 - Introduction to Moisturization"
+        "AD2208 - Theory, Context and Digital Practice",
+        "CP2119 - Games Development 1",
+        "DM2036 - Game Design",
+        "VC2003 - Negotiated Project in Visual Comms. 2",
+        "APA LE*Credit for Prior Learning at Level 1 (BSc Mobile Computing)"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Warble Pioneer Award",
-      "date": "2001-11-01",
-      "awarder": "Levi Goulet",
-      "summary": "Have you seen my turtle?"
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "publications": [
     {
-      "name": "Radio Julius",
-      "publisher": "Tanyo Lubbock",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.rhy.es",
-      "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Audio Juggling",
-      "level": "Master",
+      "name": "Delivery",
+      "level": "",
       "keywords": [
-        "Ointment",
-        "Voltor",
-        "Millipedes"
+        "Solution Design",
+        "ITSC",
+        "Agile",
+        "DevOps"
       ]
     },
     {
-      "name": "Bruschotti",
-      "level": "Satisfactory",
+      "name": "Platform",
+      "level": "",
       "keywords": [
-        "Snow camp",
-        "Owl"
+        "Operations",
+        "SysAdmin",
+        "Network"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Nonsense",
+      "language": "English",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Cebuano",
+      "fluency": "Basic"
     }
   ],
   "interests": [
     {
-      "name": "The Information Superhighway",
+      "name": "Rugby Union",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "England",
+        "Saracens"
+      ]
+    },
+    {
+      "name": "Football",
+      "keywords": [
+        "Man U"
+      ]
+    },
+    {
+      "name": "Sci-Fi",
+      "keywords": [
+        "Stargate",
+        "Battlestar Galactica",
+        "Star Trek"
       ]
     }
   ],
   "references": [
     {
-      "name": " Nannette Nananacci",
-      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "  Jason Roberts 2007",
+      "reference": "I have been consistently impressed by both Jasper's attitude towards this work and his performance on the job. His interpersonal and communication skills have allowed him to develop productive working relationships. Jasper is organised, efficient and extremely competent; possessing the analytical skills to diagnose problems and devise viable solutions..."
     }
   ]
 }
