@@ -1,7 +1,7 @@
 ---
 title: "Go: for loop and switch"
 excerpt: "Example of the `for` statement with a `switch`."
-last_modified_at: 2019-04-12T19:27:01-05:00
+last_modified_at: 2019-01-06T19:27:01-05:00
 categories:
   - Golang
 tags: 
