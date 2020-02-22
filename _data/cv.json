@@ -3,10 +3,10 @@
     "name": "Jasper Dean",
     "label": "Curriculum Vitae",
     "picture": "/assets/images/profile.png",
-    "email": "j@sper.ph",
-    "phone": "+44(0) 7920 029055",
+    "email": "j@sper.uk",
+    "phone": "+44(0) 7888 071471",
     "website": "https://jasperdean.dev",
-    "summary": "<p>An experienced professional, pragmatic decision maker and proven leader.</p><p>An individual that has a solid technical background who is a firm believer in personal development and lifelong learning.  Effective at delivering at pace in order to meet strict deadlines, self-motivated, adaptable and thrives under pressure.</p><p>Previously held SC level government security clearance.</p>",
+    "summary": "<p>An experienced professional, pragmatic decision maker and proven leader.</p><p>Previously held SC level government security clearance.</p>",
     "location": {
       "address": "",
       "postalCode": "",
@@ -66,7 +66,6 @@
       "studyType": "Diploma of Higher Education",
       "startDate": "2007",
       "endDate": "2011",
-      "gpa": "",
       "courses": [
         "AD2208 - Theory, Context and Digital Practice",
         "CP2119 - Games Development 1",
@@ -117,11 +116,7 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "Cebuano",
-      "fluency": "Basic"
+      "fluency": "Native"
     }
   ],
   "interests": [
