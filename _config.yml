@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-GB
 title: Jasper Dean
-email: j@sper.ph
+email: j@sper.uk
 description: "Hi, I'm Jasper"
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://jasperdean.dev/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
