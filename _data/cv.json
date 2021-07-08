@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Curriculum Vitae",
-    "label": "",
+    "name": "Jasper Dean-Severn",
+    "label": "Curriculum Vitae",
     "picture": "/assets/images/profile.png",
     "email": "j@sper.uk",
     "phone": "+44(0) 7888 071471",
     "website": "https://jasperdean.dev",
-    "summary": "<p>An experienced professional, pragmatic decision maker and proven leader.</p><p>Previously held SC level government security clearance.</p>",
+    "summary": "<p>An experienced professional, pragmatic decision maker and proven leader.</p>",
     "location": {
       "address": "",
       "postalCode": "",

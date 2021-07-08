@@ -26,7 +26,7 @@ author:
 twitter_username: jasperdean7
 github_username: jasperdean7
 linkedin_username: jasperdean7
-logo: /assets/images/gopher2.png # path of site logo, e.g. "/assets/images/logo.png"
+logo: /assets/images/gopher3.png # path of site logo, e.g. "/assets/images/logo.png"
 search: true # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
