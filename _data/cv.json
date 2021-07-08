@@ -59,7 +59,13 @@
       "area": "Computer Science with Artificial Intelligence",
       "studyType": "MSc",
       "startDate": "2021",
-      "endDate": "2023"
+      "endDate": "2023",
+      "courses": [
+        "Design and Programming",
+        "Software Engineering with Group Project",
+        "Statistical Data Analytics and Databases",
+        "User Interaction Design"
+      ]
     },
     {
       "institution": "University of Wolverhampton",
