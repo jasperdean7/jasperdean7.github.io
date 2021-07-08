@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Jasper Dean",
+    "name": "Jasper Dean-Severn",
     "label": "Curriculum Vitae",
     "picture": "/assets/images/profile.png",
     "email": "j@sper.uk",
@@ -55,17 +55,23 @@
   ],
   "education": [
     {
+      "institution": "Keele University",
+      "area": "Computer Science with Artificial Intelligence",
+      "studyType": "MSc",
+      "startDate": "2021",
+      "endDate": "2023",
+      "courses": [
+        ""
+      ]
+    },
+    {
       "institution": "University of Wolverhampton",
       "area": "Computer Games Design",
       "studyType": "Diploma of Higher Education",
       "startDate": "2007",
       "endDate": "2011",
       "courses": [
-        "AD2208 - Theory, Context and Digital Practice",
-        "CP2119 - Games Development 1",
-        "DM2036 - Game Design",
-        "VC2003 - Negotiated Project in Visual Comms. 2",
-        "APA LE*Credit for Prior Learning at Level 1 (BSc Mobile Computing)"
+        ""
       ]
     }
   ],
@@ -124,7 +130,7 @@
     {
       "name": "Football",
       "keywords": [
-        "Man U"
+        "Manchester United"
       ]
     },
     {
