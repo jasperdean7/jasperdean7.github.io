@@ -61,10 +61,10 @@
       "startDate": "2021",
       "endDate": "2023",
       "courses": [
-        "Design and Programming",
-        "Software Engineering with Group Project",
-        "Statistical Data Analytics and Databases",
-        "User Interaction Design"
+        "CSC-40076 - Design and Programming",
+        "CSC-40084 - Software Engineering with Group Project",
+        "CSC-40080 - Statistical Data Analytics and Databases",
+        "CSC-40078 - User Interaction Design"
       ]
     },
     {
@@ -72,7 +72,14 @@
       "area": "Computer Games Design",
       "studyType": "Diploma of Higher Education",
       "startDate": "2007",
-      "endDate": "2011"
+      "endDate": "2011",
+      "courses": [
+        "AD2208 - Theory, Context and Digital Practice",
+        "CP2119 - Games Development 1",
+        "DM2036 - Game Design",
+        "VC2003 - Negotiated Project in Visual Comms. 2",
+        "APA LE*Credit for Prior Learning at Level 1 (BSc Mobile Computing)"
+      ]
     }
   ],
   "awards": [
