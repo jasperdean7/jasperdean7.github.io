@@ -98,22 +98,24 @@
   ],
   "skills": [
     {
-      "name": "Delivery",
-      "level": "",
+      "name": "Technology",
+      "level": "Lead",
       "keywords": [
-        "Solution Design",
-        "ITSC",
-        "Agile",
+        "Solution Architecture",
+        "Service Design",
+        "Cloud Migration",
+        "Digital Transformation",
+        "Agile Delivery",
         "DevOps"
       ]
     },
     {
-      "name": "Platform",
-      "level": "",
+      "name": "Soft",
+      "level": "Senior",
       "keywords": [
-        "Operations",
-        "SysAdmin",
-        "Network"
+        "Establishing and building relationships",
+        "Stakeholder engagement and management",
+        "Effective communication and facilitation"
       ]
     }
   ],
@@ -134,6 +136,7 @@
     {
       "name": "Football",
       "keywords": [
+        "England",
         "Manchester United"
       ]
     },
