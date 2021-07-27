@@ -53,6 +53,7 @@
   "education": [
     {
       "institution": "Keele University",
+      "website": "https://www.keele.ac.uk/",
       "area": "Computer Science with Artificial Intelligence",
       "studyType": "MSc",
       "startDate": "2021",
@@ -66,6 +67,7 @@
     },
     {
       "institution": "University of Wolverhampton",
+      "website": "https://www.wlv.ac.uk/",
       "area": "Computer Games Design",
       "studyType": "Diploma of Higher Education",
       "startDate": "2007",
