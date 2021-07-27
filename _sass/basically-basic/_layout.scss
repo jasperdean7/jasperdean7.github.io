@@ -170,7 +170,11 @@ main {
     .courses {
       font-size: 80%;
     }
-    
+
+    .courses {
+      margin-block-end: 2em;
+    }
+
     .courses,
     .keywords {
       @include list-unstyled;
