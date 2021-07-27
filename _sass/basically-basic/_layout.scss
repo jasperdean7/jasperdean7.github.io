@@ -166,6 +166,11 @@ main {
       margin: 1rem 0 0;
     }
 
+    .courses-title,
+    .courses {
+      font-size: 80%;
+    }
+    
     .courses,
     .keywords {
       @include list-unstyled;
