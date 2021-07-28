@@ -30,6 +30,19 @@
   }
 }
 
+.intro-image h2 {
+  position: absolute; 
+  top: 4rem; 
+  right: 2rem;
+}
+
+.intro-image h2 span {
+  color:$accent-color;
+  background: rgb(0, 0, 0); /* fallback color */
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+}
+
 .intro-text {
 
   /* remove space after last child element */
