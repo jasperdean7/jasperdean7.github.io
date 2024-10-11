@@ -30,11 +30,11 @@
   "work": [
     {
       "company": "Hillside (Technology) Ltd, bet365 Group",
-      "position": "Technical Delivery Lead (DevOps | Platform)",
+      "position": "Development Support Team Leader, Gaming",
       "website": "https://bet365.com",
-      "startDate": "Jul 2018",
+      "startDate": "Apr 2018",
       "endDate": "Present",
-      "summary": "Service design and agile delivery in a complex, distributed, microservices and highly available production environment. Combining guidance from the Business and Platform/Software Architecture to a schedule that supports the PDLC."
+      "summary": "SRE"
     }
   ],
   "volunteer": [
@@ -59,10 +59,15 @@
       "startDate": "2021",
       "endDate": "2023",
       "courses": [
-        "CSC-40076 - Design and Programming",
-        "CSC-40084 - Software Engineering with Group Project",
-        "CSC-40080 - Statistical Data Analytics and Databases",
-        "CSC-40078 - User Interaction Design"
+        "Design and Programming",
+        "Software Engineering with Group Project",
+        "User Interaction Design",
+        "Statistical Data Analytics and Databases",
+        "Web Technologies and Security",
+        "Research and Consultancy Skills",
+        "Mathematics for A.I. and Data Science",
+        "Applications of A.I. and Machine Learning",
+        "MSc Research Project - Dissertation"
       ]
     },
     {
