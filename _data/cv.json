@@ -32,7 +32,7 @@
       "company": "Hillside (Technology) Ltd, bet365 Group",
       "position": "Development Support Team Leader, Gaming",
       "website": "https://bet365.com",
-      "startDate": "Apr 2018",
+      "startDate": "Nov 2011",
       "endDate": "Present",
       "summary": "SRE"
     }
@@ -108,10 +108,8 @@
       "name": "Technology",
       "level": "Lead",
       "keywords": [
-        "Solution Architecture",
-        "Service Design",
-        "Cloud Migration",
-        "Digital Transformation",
+        "SRE",
+        "GCP",
         "Agile Delivery",
         "DevOps"
       ]
@@ -122,8 +120,12 @@
       "keywords": [
         "Establishing and building relationships",
         "Stakeholder engagement",
-        "Effective communication",
-        "Facilitation"
+        "Facilitation",
+        "Technical Leadership",
+        "People Management",
+        "Project Management",
+        "Communication & Collaboration",
+        "Problem-Solving & Innovation"
       ]
     }
   ],
