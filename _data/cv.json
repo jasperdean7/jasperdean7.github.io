@@ -30,11 +30,11 @@
   "work": [
     {
       "company": "Hillside (Technology) Ltd, bet365 Group",
-      "position": "Development Support Team Leader, Gaming",
+      "position": "Development Support Team Leader",
       "website": "https://bet365.com",
       "startDate": "Nov 2011",
       "endDate": "Present",
-      "summary": "SRE"
+      "summary": "Site Reliability Engineering (SRE)"
     }
   ],
   "volunteer": [
