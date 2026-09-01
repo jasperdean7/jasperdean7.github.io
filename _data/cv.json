@@ -10,8 +10,8 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Telford",
-      "countryCode": "United Kingdom",
+      "city": "Newport, Telford & Wrekin",
+      "countryCode": "UK",
       "region": "Shropshire."
     },
     "profiles": [
@@ -30,7 +30,7 @@
   "work": [
     {
       "company": "Hillside (Technology) Ltd, bet365 Group",
-      "position": "Development Support Team Leader",
+      "position": "Lead SRE",
       "website": "https://bet365.com",
       "startDate": "Nov 2011",
       "endDate": "Present",
